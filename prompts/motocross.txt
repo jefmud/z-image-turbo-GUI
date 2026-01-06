@@ -1,0 +1,19 @@
+"subject": "A motocross racer mid-jump",
+
+"appearance": "Rider wearing bright orange and blue Fox Racing gear, helmet with mirrored visor, mud-spattered boots",
+
+"action": "Doing a 'whip' trick in the air, bike turned sideways, mud flying off the tires",
+
+"setting": "Outdoor dirt track, sunset, crowd in the background",
+
+"lighting": "Golden hour sunlight hitting the dust, harsh shadows",
+
+"atmosphere": "Energetic, dusty, loud, chaotic",
+
+"composition": "Low angle looking up at the rider against the sky",
+
+"details": "Individual clods of dirt suspended in air, motion blur on the background trees",
+
+"text_elements": "Sponsor logo on the bike side panel reading \"TURBO-Z\"",
+
+"technical": "Shutter speed 1/4000s, sports photography, high contrast, freeze motion"

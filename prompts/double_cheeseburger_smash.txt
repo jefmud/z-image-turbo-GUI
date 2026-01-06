@@ -1,0 +1,19 @@
+"title": "A gourmet double cheeseburger smash",
+
+"appearance": "Two beef patties with crispy edges, melting cheddar cheese dripping down, glistening brioche bun, fresh lettuce and tomato",
+
+"action": "Being dropped onto a wooden table with ingredients slightly separating from impact",
+
+"setting": "Dark rustic kitchen studio",
+
+"lighting": "Dramatic side lighting to emphasize texture, rim light on the grease",
+
+"atmosphere": "Appetizing, high-end commercial",
+
+"composition": "Eye-level shot, shallow depth of field behind the burger",
+
+"details": "Sesame seeds in mid-air, ketchup droplet flying, steam rising from the meat",
+
+"text_elements": "A small flag toothpick in the bun reading \"DELISH\"",
+
+"technical": "Food photography, 85mm lens, crisp details, color graded warm"

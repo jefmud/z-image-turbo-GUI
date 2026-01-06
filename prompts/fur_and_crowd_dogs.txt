@@ -1,0 +1,19 @@
+"subject": "A chaotic meeting of 15 different dogs playing poker",
+
+"appearance": "Bulldogs, Poodles, and Huskies wearing varying human clothes (vests, hats, bowties)",
+
+"action": "Sitting around a green felt table, one dog throwing chips in, another hiding an ace",
+
+"setting": "Smoky underground speakeasy, 1920s style",
+
+"lighting": "Dim overhead lamp casting a cone of light on the table",
+
+"atmosphere": "Hazy with cigar smoke, vintage, humorous",
+
+"composition": "Overhead view slightly angled down",
+
+"details": "Poker chips stacked, whiskey glasses, cigars in ashtrays",
+
+"text_elements": "Sign on the wall in background \"NO CATS ALLOWED\"",
+
+"technical": "Oil painting style texture, Norman Rockwell influence, high detail on fur"

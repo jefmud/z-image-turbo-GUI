@@ -1,0 +1,19 @@
+"subject": "Interior of a futuristic Art Deco grand hotel lobby",
+
+"appearance": "Polished black marble floors with gold inlays, towering geometric statues, velvet red furniture",
+
+"action": "A robot concierge waiting patiently",
+
+"setting": "New York City, year 2150, luxury district",
+
+"lighting": "Warm chandelier lighting, volumetric god rays from high windows, polished reflections",
+
+"atmosphere": "Opulent, clean, quiet, majestic",
+
+"composition": "Wide angle symmetrical shot centered on the reception desk",
+
+"details": "Intricate geometric patterns on the ceiling, holographic dust motes",
+
+"text_elements": "Gold lettering on the marble desk reading \"THE GRANDEUR HOTEL\"",
+
+"technical": "Architecture photography, tilt-shift lens, 8k resolution, ray-tracing style"

@@ -1,0 +1,19 @@
+"subject": "A high-fashion model walking a runway",
+
+"appearance": "Tall androgynous model, sharp cheekbones, wearing a flowing gown made of liquid iridescent plastic and sheer silk",
+
+"action": "Walking confidently, the dress billowing dramatically behind",
+
+"setting": "Paris Fashion Week runway, minimalist white background",
+
+"lighting": "Harsh white studio flashes, minimal shadows",
+
+"atmosphere": "Sterile, chic, high-energy, modern",
+
+"composition": "Full body shot from the end of the runway",
+
+"details": "Reflections on the plastic fabric, texture of the sheer silk, audience silhouettes",
+
+"text_elements": "Large bold typography on the wall behind reading \"VOGUE 2025\"",
+
+"technical": "Fashion editorial, Phase One camera, ultra-sharp resolution"

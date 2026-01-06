@@ -1,0 +1,19 @@
+"subject": "Elara, a 28-year-old freckled botanist",
+
+"appearance": "Pale skin with visible pores and heavy freckles, messy auburn hair tied back with a vine, wearing a dirty linen shirt",
+
+"action": "Holding a glowing bioluminescent mushroom up to inspect it closely",
+
+"setting": "A humid, glass-walled greenhouse filled with exotic giant ferns",
+
+"lighting": "Strong backlighting from the sun entering the glass, soft purple glow from the mushroom illuminating her face",
+
+"atmosphere": "Dusty air, pollen particles floating, warm and organic",
+
+"composition": "Extreme close-up (Macro) on the face and the mushroom",
+
+"details": "Dirt under fingernails, fine peach fuzz on cheeks, sweat droplet on temple",
+
+"text_elements": Tag on her shirt pocket reading "STAFF",
+
+"technical": Macro lens 100mm, f/2.8, subsurface scattering enabled, sharp focus on eyes
