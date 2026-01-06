@@ -19,11 +19,6 @@ source .venv/bin/activate
 uv pip install -e .
 ```
 
-If you prefer a plain requirements file:
-```bash
-pip install -r requirements-RAW.txt
-```
-
 GPU-specific install (CUDA)
 Install a CUDA-enabled PyTorch build that matches your driver/toolkit, then install the rest:
 ```bash
